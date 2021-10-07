@@ -1,1 +1,3 @@
 Function one -I have added here function.
+Function two - I have added another function.
+Function three - I have added unnecessary function.
