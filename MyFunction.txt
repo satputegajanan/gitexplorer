@@ -4,3 +4,5 @@ Function three - I have added unnecessary function.
 
 newfunction -i have added new function
 newer function addded.
+
+new chart addded.
