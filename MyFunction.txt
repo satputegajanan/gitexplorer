@@ -1,4 +1,4 @@
-Function one -I have added here function.
+Function one -I have added one here function.
 Function two - I have added another function.
 Function three - I have added unnecessary function.
 
@@ -11,3 +11,5 @@ new line added
 
 line 2 added
 new y finction added
+new x function 
+
